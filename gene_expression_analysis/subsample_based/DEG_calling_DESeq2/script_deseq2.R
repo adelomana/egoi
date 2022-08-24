@@ -1,7 +1,7 @@
 ###
 ### 1. load libraries
 ###
-library(rlist) # necessary for list appending
+#library(rlist) # necessary for list appending
 library(biomaRt)
 library(tximport)
 library(DESeq2)
